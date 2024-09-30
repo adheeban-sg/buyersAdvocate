@@ -1,0 +1,31 @@
+{
+    "property_details": [
+        {
+            "location": "",
+            "land_size": "500",
+            "bedrooms": "1",
+            "bathrooms": "2",
+            "orientation": "",
+            "frontage": "",
+            "zoning": "",
+            "overlays": ""
+        }
+    ],
+    "nearby_amenities": [
+        {
+            "schools": "",
+            "transport": "",
+            "other": ""
+        }
+    ],
+    "safety": [
+        {
+            "safety_stats": ""
+        }
+    ],
+    "considerations": [
+        {
+            "considerations": ""
+        }
+    ]
+}
